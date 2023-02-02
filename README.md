@@ -37,3 +37,34 @@ Countries inforamtion based on reasons to visit
 > "It is better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt."
 
 *Mark Twain*
+
+---------
+# code Fencing
+
+>[stackoverflowlink](http://stackoverflow.com/questions/4075489/how-to-replicate-fence-svg-as-a-gradient)
+
+
+```
+<php 
+
+  // Get all the data 
+  $getPostCustom = get_post_custom(); 
+
+    foreach($getPostCustom as $name=>$value) {
+
+        echo "<strong>" . $name . "</strong>"."  =>  ";
+
+        foreach ($value as $nameAr=>$valueAr) {
+                echo "<br />";
+                echo $nameAr."  =>  ";
+                echo var_dump($valueAr);
+        }
+
+        echo "<br /><br />";
+
+    }
+>
+</wordpress>
+
+```
+[Link 2 wordpress](https://css-tricks.com/snippets/wordpress/dump-all-custom-fields/)
