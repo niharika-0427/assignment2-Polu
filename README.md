@@ -19,4 +19,10 @@ My favourite team is Telugu taitans
 
 ---
 
-
+# Recommended Countries
+Countries inforamtion based on reasons to visit
+|countries        | Reason to visit                | visiting days  |
+| Switzerland     | Sceanary of the alps           |  19            |
+| Germany         | Great Architecture             |  26            |
+| Canada          | Travel through 45 National Park|  24            |
+| Japan           |  Great inventions             |  29            |
