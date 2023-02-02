@@ -8,6 +8,9 @@ ____
 # My favourite kabaddi team
 My favourite team is Telugu taitans
 1. Rahul Chowdary
-2. siddharth Desai
+2. Siddharth Desai
 3. Vinay
 
+* Pardeep Narwal
+* Ajay Thakur
+* Manjeet Chillar
